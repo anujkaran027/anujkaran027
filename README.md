@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Karan</h1>
+<h3 align="center">Python Developer</h3>
 
 <!--img-->
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV5czg0dzBnYXp0ZjQyb3g1ZGxqOXQ0MWJ0cXpjdmFsYTN2NHplbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" height="200" align="right"></img>
