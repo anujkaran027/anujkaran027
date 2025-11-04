@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anuj Karan</h1>
 
-<!--
-**anujkaran027/anujkaran027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--img-->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV5czg0dzBnYXp0ZjQyb3g1ZGxqOXQ0MWJ0cXpjdmFsYTN2NHplbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" align="right"></img>
 
-Here are some ideas to get you started:
+- 👨‍💻 All projects: [GITHUB](https://github.com/anujkaran027)
+- 📄 Resume: [RESUME]()
+- 📫 Reach me: **anujkaran255@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+
+[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/anuj-karan-017b3326b)
+
+---
+
+### Tech Stack
+  
+#### Languagen and Tools:
+<img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,tailwind,django,express,fastapi,flask,git,github,nodejs,postgres,react," /><br>
+
+---
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkaran027&layout=compact)
+
+</div>
