@@ -12,8 +12,9 @@
 ---
 
 ### Connect with me:
-
-[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/anuj-karan-017b3326b)
+<p align="left">
+<a href="https://www.linkedin.com/in/anuj-karan-017b3326b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-yadav-work/" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -26,6 +27,6 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkaran027&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkaran027&layout=compact&hide=jupyter)
 
 </div>
