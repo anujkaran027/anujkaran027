@@ -27,6 +27,6 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkaran027&layout=compact&hide=jupyter)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkaran027&layout=compact&hide=jupyternotebook)
 
 </div>
