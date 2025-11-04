@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Karan</h1>
 
 <!--img-->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV5czg0dzBnYXp0ZjQyb3g1ZGxqOXQ0MWJ0cXpjdmFsYTN2NHplbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"></img>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV5czg0dzBnYXp0ZjQyb3g1ZGxqOXQ0MWJ0cXpjdmFsYTN2NHplbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" height="200" align="right"></img>
 
 ---
 
@@ -27,6 +27,6 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkaran027&layout=compact&hide=jupyternotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujkaran027&layout=compact)
 
 </div>
