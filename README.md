@@ -5,7 +5,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV5czg0dzBnYXp0ZjQyb3g1ZGxqOXQ0MWJ0cXpjdmFsYTN2NHplbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" height="170" align="right"></img>
 
 - 👨‍💻 All projects: [GITHUB](https://github.com/anujkaran027)
-- 📄 Resume: [RESUME](https://drive.google.com/file/d/1HQX_JeX_WHxQrDLg-KlL-8X56VT4Y1Ah/view?usp=sharing)
+- 📄 Resume: [RESUME](https://drive.google.com/file/d/1Ikj6mjig87SyXx9hkPAdFJjUM4wc_jUJ/view?usp=sharing)
 - 📫 Reach me: **anujkaran255@gmail.com**
 
 ### Connect with me:
